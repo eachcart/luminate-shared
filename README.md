@@ -56,3 +56,9 @@ python3 main.py
 ```bash
 cd ~ && git clone https://github.com/eachcart/luminate-shared.git && cd luminate-shared && pip install -r luminate.pyreq && python3 main.py
 ```
+
+# Инструкция по обновлению:
+Просто выполните pull-запрос.
+```bash
+git pull
+```
