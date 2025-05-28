@@ -18,10 +18,10 @@ luminate :: {
     info_path :: "Resources/Misc/info/luminate.info"
 
     credentials :: {
-        api_id :: nil ? paste your api_id here
-        api_hash :: nil ? paste your api_hash here with ""
+        api_id :: null ? paste your api_id here
+        api_hash :: null ? paste your api_hash here with ""
         session :: "lumi"
-        bot_token :: nil ? not needed
+        bot_token :: null ? not needed
     }
 }
 
