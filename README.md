@@ -44,6 +44,7 @@ Telegram & Discord: @eachcart
 </blockquote>
 
 # Инструкция по установке:
+Не забудьте подредактировать в Resources/userconfig.psc перед запуском!
 ```bash
 cd ~
 git clone https://github.com/eachcart/luminate-shared.git
@@ -55,4 +56,3 @@ python3 main.py
 ```bash
 cd ~ && git clone https://github.com/eachcart/luminate-shared.git && cd luminate-shared && pip install -r luminate.pyreq && python3 main.py
 ```
-<h1>Не забудьте подредактировать в Resources/userconfig.psc!</h1>
